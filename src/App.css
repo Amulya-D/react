@@ -50,6 +50,12 @@
   transition: background-color 250ms;
 }
 
+.lucky {
+  display: flex;
+  flex-wrap: nowrap;
+  justify-content: space-around;
+}
+
 .button:hover {
   background-color: rgba(0, 0, 0, 0.85);
 }
