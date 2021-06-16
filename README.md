@@ -1,4 +1,5 @@
 # react
 
-This is my REACT-Native Snapshot replica project.
+This is my react project! I have built a snapshot clone. 
+
 
